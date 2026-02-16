@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,30&height=220&section=header&text=Hi,%20I%27m%20Thilina%20Pathiraja&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Hardware%20and%20Embedded%20Systems%20Engineer&descAlignY=55&descSize=20" alt="Header" />
 
-<h3>Hi, I'm Thilina Pathiraja 👋</h3>
+<h3>Hi,  👋</h3>ddijdfjfijfjreojeofg
 
 <p>
 I'm a <strong>BSc Undergraduate</strong> pursuing Physics & Electronics 🎓 from <strong>University of Kelaniya</strong> 🏛️.
